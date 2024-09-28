@@ -11,7 +11,7 @@ Designed for Python and played using keyboard arrow key controls.
 #
 ### Related Links
 
-[Sky Tetris](https://github.com/sourceduty/SkyTetris)
+[Sky Tetris](https://github.com/sourceduty/Sky_Tetris)
 <br>
 [Gaming](https://github.com/sourceduty/Gaming)
 
